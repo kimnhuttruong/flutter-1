@@ -1,0 +1,9 @@
+language: dart
+dart:
+  - stable
+  - beta
+  - dev
+script: dart tool/travis.dart
+matrix:
+  allow_failures:
+    # - dart: dev

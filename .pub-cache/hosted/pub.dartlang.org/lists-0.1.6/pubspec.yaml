@@ -1,0 +1,10 @@
+name: lists
+version: 0.1.6
+description: Collection of the lists (BitList, FilledList, GroupedRangeList, ListPointer, RangeList, SparseBoolList, SparseList, StepList, WrappedList).
+homepage: https://github.com/mezoni/lists
+environment:
+  sdk: '>=1.0.0 <3.0.0'
+dependencies:  
+dev_dependencies:
+  pedantic: ^1.9.0
+  test: any

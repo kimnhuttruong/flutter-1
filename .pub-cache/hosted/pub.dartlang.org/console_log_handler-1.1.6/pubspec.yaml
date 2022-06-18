@@ -1,0 +1,25 @@
+name: console_log_handler
+
+version: 1.1.6
+author: Mike Mitterer  <office@mikemitterer.at>
+description: Console logger
+
+homepage: https://github.com/MikeMitterer/dart-console_log_handler
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+
+  logging: '>=0.11.3 <1.0.0'
+  intl: '>=0.15.2 <1.0.0'
+
+  ansicolor: ^1.0.0
+
+dev_dependencies:
+  test: any
+  grinder: any
+
+  build_runner: any
+  build_test: any
+  build_web_compilers: any

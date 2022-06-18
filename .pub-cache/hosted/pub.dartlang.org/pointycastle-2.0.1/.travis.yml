@@ -1,0 +1,7 @@
+language: dart
+dart:
+  - stable
+script:
+  - dart test/all_tests_web.dart
+  - pub global activate pana
+  - pana .

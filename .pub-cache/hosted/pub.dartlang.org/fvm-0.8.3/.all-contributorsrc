@@ -1,0 +1,87 @@
+{
+  "projectName": "fvm",
+  "projectOwner": "leoafarias",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 50,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "leoafarias",
+      "name": "Leo Farias",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/435833?v=4",
+      "profile": "https://github.com/leoafarias",
+      "contributions": [
+        "doc",
+        "ideas",
+        "code",
+        "example",
+        "review",
+        "maintenance",
+        "infra"
+      ]
+    },
+    {
+      "login": "ianko",
+      "name": "Ianko Leite",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/723360?v=4",
+      "profile": "https://github.com/ianko",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "CaiJingLong",
+      "name": "Caijinglong",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14145407?v=4",
+      "profile": "https://www.kikt.top",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "zmtzawqlp",
+      "name": "zmtzawqlp",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16477333?v=4",
+      "profile": "https://juejin.im/user/5bdc1a32518825170b101080",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "kuhnroyal",
+      "name": "Peter Leibiger",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1260818?v=4",
+      "profile": "https://github.com/kuhnroyal",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "panthe",
+      "name": "Luca Panteghini",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/250296?v=4",
+      "profile": "http://www.itasoft.it",
+      "contributions": ["doc"]
+    },
+     {
+      "login": "davidmartos96",
+      "name": "David Martos",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22084723?v=4",
+      "profile": "https://github.com/davidmartos96",
+      "contributions": [
+        "code",
+        "test",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}

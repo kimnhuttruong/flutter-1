@@ -1,0 +1,18 @@
+name: jwt_decoder
+description: This small library helps you to decode Json Web Tokens, you can also know if a JWT is already expired.
+version: 1.0.4
+homepage: https://github.com/gustavo0197/dart-jwt-decoder
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:

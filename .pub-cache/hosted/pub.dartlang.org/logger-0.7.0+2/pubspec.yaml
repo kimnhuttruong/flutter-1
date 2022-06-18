@@ -1,0 +1,12 @@
+name: logger
+description: Small, easy to use and extensible logger which prints beautiful logs.
+version: 0.7.0+2
+author: Simon Leier <simonleier@gmail.com>
+homepage: https://github.com/leisim/logger
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dev_dependencies:
+  test: any
+  pedantic: ^1.8.0

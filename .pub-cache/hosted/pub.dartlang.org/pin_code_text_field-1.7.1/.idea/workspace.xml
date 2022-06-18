@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="454e3a70-107c-46fa-b354-df0efe7224c0" name="Default" comment="## [1.7.0]&#10;* Added `hasUnderline` option in pin box.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pin_code_text_field.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pin_code_text_field.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[1c92034c2b037ece]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="ProjectId" id="1cRlJjntKCW2SGMKGWOI7bDoufz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$USER_HOME$/Desktop" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/liewjuntung/Dev/pin_code_text_field/example/lib/main.dart&#10;main&#9;FILE&#9;file:///Users/juntung/Dev/OpenSource/pin_code_text_field/example/lib/main.dart&#10;README&#9;FILE&#9;file:///Users/juntung/Dev/OpenSource/pin_code_text_field/README.md" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Application/flutter_windows_1.17.1-stable/flutter/bin" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.pin_code_text_field">
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pin_code_text_field" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adds one to input values" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="adds one to input values" />
+      <option name="testFile" value="$PROJECT_DIR$/test/pin_code_text_field_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="454e3a70-107c-46fa-b354-df0efe7224c0" name="Default" comment="" />
+      <created>1539664442377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539664442377</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1539666683527</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539666683527</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1539668378794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539668378794</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Uploaded first flutter plugin">
+      <created>1539668982156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539668982156</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Uploaded README">
+      <created>1539669446798</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539669446798</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Uploaded README 2">
+      <created>1539670278300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539670278300</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Uploaded README 2">
+      <created>1539670335325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539670335325</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Uploaded README">
+      <created>1539670639903</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539670639903</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Uploaded README">
+      <created>1539671128504</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1539671128504</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added a few properties. Updated README">
+      <created>1544494155380</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1544494155380</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated to the 1.0.1">
+      <created>1544494929798</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1544494929798</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated to the 1.1.0 with animation">
+      <created>1544864581345</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1544864581345</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated readme image">
+      <created>1544865128756</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1544865128756</updated>
+    </task>
+    <task id="LOCAL-00013" summary="updated another gif">
+      <created>1544865423228</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1544865423228</updated>
+    </task>
+    <task id="LOCAL-00014" summary="updated another gif">
+      <created>1544866006791</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1544866006791</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1.1.2&#10;* Refactored provided `PinBoxDecoration` to `ProvidedPinBoxDecoration`&#10;* Refactored provided `PinBoxTextAnimation` to `ProvidedPinBoxTextAnimation`">
+      <created>1545022627309</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1545022627309</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1.2.0&#10;* Use `Wrap` instead of `Row` to display the Pin boxes&#10;* Updated minSdkVersion in build.gradle to sdk 28">
+      <created>1551801272510</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1551801272511</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[1.3.1] - 16 April 2019&#10;* `TextEditingController` to set initial text to the `PinCodeTextField`&#10;* `PinCodeTextField` will reflect changes made in `TextEditingController`">
+      <created>1555429765014</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1555429765014</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Updated README">
+      <created>1555431003009</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555431003009</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Updated README">
+      <created>1555431027633</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1555431027633</updated>
+    </task>
+    <task id="LOCAL-00020" summary="1.3.2 added check">
+      <created>1555432414860</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1555432414860</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[1.3.5] #13">
+      <created>1556895344382</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1556895344382</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[1.3.6] #13">
+      <created>1557243028058</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1557243028059</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[1.4.0] Merged a few pull requests with keyboardType">
+      <created>1567735043863</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1567735043863</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fixing wrap and padding bug">
+      <created>1574209760011</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1574209760011</updated>
+    </task>
+    <task id="LOCAL-00025" summary="1.5.0">
+      <created>1574357920026</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1574357920026</updated>
+    </task>
+    <task id="LOCAL-00026" summary="## [1.7.0]&#10;* Added `hasUnderline` option in pin box.">
+      <created>1597740387478</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1597740387478</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Uploaded first flutter plugin" />
+    <MESSAGE value="Uploaded README 2" />
+    <MESSAGE value="Uploaded README" />
+    <MESSAGE value="Added a few properties. Updated README" />
+    <MESSAGE value="Updated to the 1.0.1" />
+    <MESSAGE value="Updated to the 1.1.0 with animation" />
+    <MESSAGE value="Updated readme image" />
+    <MESSAGE value="updated another gif" />
+    <MESSAGE value="1.1.2&#10;* Refactored provided `PinBoxDecoration` to `ProvidedPinBoxDecoration`&#10;* Refactored provided `PinBoxTextAnimation` to `ProvidedPinBoxTextAnimation`" />
+    <MESSAGE value="1.2.0&#10;* Use `Wrap` instead of `Row` to display the Pin boxes&#10;* Updated minSdkVersion in build.gradle to sdk 28" />
+    <MESSAGE value="[1.3.1] - 16 April 2019&#10;* `TextEditingController` to set initial text to the `PinCodeTextField`&#10;* `PinCodeTextField` will reflect changes made in `TextEditingController`" />
+    <MESSAGE value="Updated README" />
+    <MESSAGE value="1.3.2 added check" />
+    <MESSAGE value="[1.3.5] #13" />
+    <MESSAGE value="[1.3.6] #13" />
+    <MESSAGE value="[1.4.0] Merged a few pull requests with keyboardType" />
+    <MESSAGE value="fixing wrap and padding bug" />
+    <MESSAGE value="1.5.0" />
+    <MESSAGE value="## [1.7.0]&#10;* Added `hasUnderline` option in pin box." />
+    <option name="LAST_COMMIT_MESSAGE" value="## [1.7.0]&#10;* Added `hasUnderline` option in pin box." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="910" y="572" width="985" height="763" key="CommitChangelistDialog2" timestamp="1597740387044">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="910" y="572" width="985" height="763" key="CommitChangelistDialog2/0.0.2560.1400/-1920.940.1920.1040@0.0.2560.1400" timestamp="1597740387044" />
+    <state x="1388" y="633" key="FileChooserDialogImpl" timestamp="1597740121557">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1388" y="633" key="FileChooserDialogImpl/0.0.2560.1400/-1920.940.1920.1040@0.0.2560.1400" timestamp="1597740121557" />
+    <state x="703" y="456" key="SettingsEditor" timestamp="1597740136909">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="703" y="456" key="SettingsEditor/0.0.2560.1400/-1920.940.1920.1040@0.0.2560.1400" timestamp="1597740136909" />
+    <state x="799" y="626" key="Vcs.Push.Dialog.v2" timestamp="1597740390808">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="799" y="626" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.940.1920.1040@0.0.2560.1400" timestamp="1597740390808" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>pin_code_text_field</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Dart Packages</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
